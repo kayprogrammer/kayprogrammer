@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FB4916&center=true&vCenter=true&width=420&height=60&lines=Hey+There!+%F0%9F%91%8B;My+name+is+Kenechi+Ifeanyi;My+Tools+are......;%7C%7CReact%7C%7CVue%7C%7CPython%7C%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FB4916&center=true&vCenter=true&width=600&height=70&lines=Hey+There!+%F0%9F%91%8B;My+name+is+Kenechi+Ifeanyi;My+Tools+are......;%7C%7CReact%7C%7CVue%7C%7CPython%7C%7C)](https://git.io/typing-svg)
