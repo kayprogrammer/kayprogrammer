@@ -14,7 +14,7 @@ I enjoy learning new things, building projects, and developing relationships.
 - 🌱 I’m also into Javascript and its frameworks (React, Vue) for frontend engineering.
 - 😎 Other interested Languages (Golang, Rust, C)
 - 👯 I collaborate with upcoming startups.
-<!-- - 🖊️I️️ write articles on [<img src="./icons/hashnode.png" height=24 alt="hashnode_icon" />](https://hashnode.com/@xavier577) [![dev.to_icon](./icons/devto.svg)](https://dev.to/xavier577)-->
+<!-- - 🖊️I️️ write articles on [<img src="./icons/hashnode.png" height=24 alt="hashnode_icon" />](https://hashnode.com/@xavier577) [![dev.to_icon](./icons/devto.svg)]--><!--(https://dev.to/xavier577)-->
 - ❤ I’m a genuine lover of Jesus.
 - 📫 How to reach me: [![github_icon](./icons/github.svg)](http://github.com/kayprogrammer)
   [![twitter_icon](./icons/twitter.svg)](https://twitter.com/KayProgrammer)
