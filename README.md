@@ -7,6 +7,7 @@
 </head>
 
 I am a Metallurgical and Materials Engineering student at FUTA 🧑‍🎓, Software Engineer 👨‍💻 and Technical writer 🖊️.
+
 I enjoy learning new things, building projects, and developing relationships.
 
 - 🔭 I’m currently into Python and its frameworks (Django, Flask, FastApi) for backend engineering.
