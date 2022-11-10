@@ -21,7 +21,10 @@ I enjoy learning new things, building projects, and developing relationships.
   [![gmail_icon](./icons/gmail.svg)](mailto:kenechiifeanyi@gmail.com)
   [![linkedIn_icon](./icons/linkedin.svg)](https://www.linkedin.com/in/kenechi-ifeanyi/)
   [![whatsapp_icon](./icons/whatsapp.svg)](https://wa.me/2348095602320)
-## Some 
+## Some stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayprogrammer&layout=compact&theme=dark)](https://github.com/kayprogrammer/github-readme-stats)
+
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=kayprogrammer&theme=dark&hide_border=true"></a>&nbsp;
+
 [![Kayprogrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayprogrammer&theme=dark)](https://github.com/kayprogrammer/github-readme-stats)
