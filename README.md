@@ -28,3 +28,5 @@ I enjoy learning new things, building projects, and developing relationships.
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=kayprogrammer&theme=dark&hide_border=true"></a>&nbsp;
 
 [![Kayprogrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayprogrammer&theme=dark)](https://github.com/kayprogrammer/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/f9c42528-3c72-4c6c-93d7-9d10ad114ac4.svg)](https://wakatime.com/@f9c42528-3c72-4c6c-93d7-9d10ad114ac4)
