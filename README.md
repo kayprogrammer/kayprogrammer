@@ -30,3 +30,5 @@ I enjoy learning new things, building projects, and developing relationships.
 [![Kayprogrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayprogrammer&theme=dark)](https://github.com/kayprogrammer/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/f9c42528-3c72-4c6c-93d7-9d10ad114ac4.svg)](https://wakatime.com/@f9c42528-3c72-4c6c-93d7-9d10ad114ac4)
+
+![alt text](https://wakatime.com/share/@kayprogrammer/aa6a56c3-87be-4847-975b-33221f66969e.svg?raw=true)
