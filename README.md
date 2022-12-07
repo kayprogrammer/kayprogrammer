@@ -32,4 +32,4 @@ I enjoy learning new things, building projects, and developing relationships.
 ## Wakatime stats
 [![wakatime](https://wakatime.com/badge/user/f9c42528-3c72-4c6c-93d7-9d10ad114ac4.svg)](https://wakatime.com/@f9c42528-3c72-4c6c-93d7-9d10ad114ac4)
 
-<img height="345em" src="https://wakatime.com/share/@kayprogrammer/aa6a56c3-87be-4847-975b-33221f66969e.svg">
+<a href="https://wakatime.com/share/@kayprogrammer/aa6a56c3-87be-4847-975b-33221f66969e.svg"><img height="345em" src="https://wakatime.com/share/@kayprogrammer/aa6a56c3-87be-4847-975b-33221f66969e.svg"></a>
