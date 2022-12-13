@@ -22,12 +22,11 @@ I enjoy learning new things, building projects, and developing relationships.
   [![linkedIn_icon](./icons/linkedin.svg)](https://www.linkedin.com/in/kenechi-ifeanyi/)
   [![whatsapp_icon](./icons/whatsapp.svg)](https://wa.me/2348095602320)
 ## Github stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayprogrammer&layout=compact&theme=dark)](https://github.com/kayprogrammer/github-readme-stats)
-
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=kayprogrammer&theme=dark&hide_border=true"></a>&nbsp;
-
-[![Kayprogrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayprogrammer&theme=dark)](https://github.com/kayprogrammer/github-readme-stats)
+<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-stats.vercel.app/api?username=kayprogrammer&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
+<br><br><br>
+<img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=kayprogrammer&theme=github-dark&hide_border=true" />
+<br><br><br>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayprogrammer&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
 
 ## Wakatime stats
 [![wakatime](https://wakatime.com/badge/user/f9c42528-3c72-4c6c-93d7-9d10ad114ac4.svg)](https://wakatime.com/@f9c42528-3c72-4c6c-93d7-9d10ad114ac4)
