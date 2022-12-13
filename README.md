@@ -23,9 +23,9 @@ I enjoy learning new things, building projects, and developing relationships.
   [![whatsapp_icon](./icons/whatsapp.svg)](https://wa.me/2348095602320)
 ## Github stats
 <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-stats.vercel.app/api?username=kayprogrammer&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
-<br><br>
+<br>
 <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=kayprogrammer&theme=github-dark" />
-<br><br>
+<br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayprogrammer&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
 
 ## Wakatime stats
