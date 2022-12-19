@@ -22,6 +22,7 @@ I enjoy learning new things, building projects, and developing relationships.
   [![linkedIn_icon](./icons/linkedin.svg)](https://www.linkedin.com/in/kenechi-ifeanyi/)
   [![whatsapp_icon](./icons/whatsapp.svg)](https://wa.me/2348095602320)
 ## Github stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=folaoluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-stats.vercel.app/api?username=kayprogrammer&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
 <br>
 <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=kayprogrammer&theme=github-dark" />
