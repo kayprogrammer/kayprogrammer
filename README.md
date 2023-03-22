@@ -10,9 +10,9 @@ I am a Metallurgical and Materials Engineering student at FUTA 🧑‍🎓, Soft
 
 I enjoy learning new things, building projects, and developing relationships.
 
-- 🔭 I’m currently into Python and its frameworks (Django, Flask, FastApi) for backend engineering.
-- 🌱 I’m also into Javascript and its frameworks (React, Vue) for frontend engineering.
-- 😎 Other interested Languages (Golang, Rust, C)
+- 🔭 I’m currently into Python and its frameworks - Django, Flask, FastApi for backend engineering.
+- 🌱 I’m also into Javascript and its frameworks - React & Vue for frontend engineering.
+- 😎 Other interested Languages - Golang & Rust
 - 👯 I collaborate with upcoming startups.
 <!-- - 🖊️I️️ write articles on [<img src="./icons/hashnode.png" height=24 alt="hashnode_icon" />](https://hashnode.com/@xavier577) [![dev.to_icon](./icons/devto.svg)]--><!--(https://dev.to/xavier577)-->
 - ❤ I’m a genuine lover of Jesus.
