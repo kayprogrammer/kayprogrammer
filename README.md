@@ -15,7 +15,7 @@ I enjoy learning new things, building projects, and developing relationships.
 - 😎 Other interested Languages - Golang & Rust
 - 👯 I collaborate with upcoming startups.
 <!-- - 🖊️I️️ write articles on [<img src="./icons/hashnode.png" height=24 alt="hashnode_icon" />](https://hashnode.com/@xavier577) [![dev.to_icon](./icons/devto.svg)]--><!--(https://dev.to/xavier577)-->
-- ❤ I’m a genuine lover of Jesus.
+- ❤ I love Jesus, so I'm a Kingdom Envoy 🔥💥.
 - 📫 How to reach me: [![github_icon](./icons/github.svg)](http://github.com/kayprogrammer)
   [![twitter_icon](./icons/twitter.svg)](https://twitter.com/KayProgrammer)
   [![gmail_icon](./icons/gmail.svg)](mailto:kenechiifeanyi@gmail.com)
