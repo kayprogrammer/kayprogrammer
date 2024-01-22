@@ -14,6 +14,7 @@ Python | Javascript | Typesript | Go | Rust
   - Vanilla Javascript | JQuery | React | Vue | Redux | ViteJs
   - SQLite3 | PostgreSQL
   - MVT | REST API
+  - SQLAlchemy | Piccolo | Gorm | Ent | Prisma
   - Docker | Deployment | Testing
 
 # Experience
