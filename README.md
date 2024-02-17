@@ -14,8 +14,8 @@ Python | Javascript | Typesript | Go | Rust
   - Vanilla Javascript | JQuery | React | Vue | Redux | ViteJs
   - SQLite3 | PostgreSQL
   - MVT | REST API
-  - SQLAlchemy | Piccolo | Gorm | Ent | Prisma
-  - Docker | Deployment | Testing
+  - SQLAlchemy | Piccolo | Tortoise | Gorm | Ent | Prisma
+  - Docker | Cloud | Deployment | Testing
 
 # Experience
 - Back-end development
@@ -24,7 +24,7 @@ Python | Javascript | Typesript | Go | Rust
 - API development and 3rd Party API integrations
 - API Documentation with swagger or postman
 - Docker and container orchestration tools
-- Git, Github, Linux, Slack
+- Git, Github, Linux, Slack, AWS
 
 # Socials
 - [Twitter](https://twitter.com/KayProgrammer)
