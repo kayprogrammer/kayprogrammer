@@ -4,7 +4,7 @@
 Hey There! I'm Kenechi Ifeanyi, a seasoned software engineer, specializing in the realm of backend development. My journey in the tech world has seen me crafting robust and high-performing applications. My enthusiasm for this ever-evolving field is matched only by my relentless pursuit of knowledge. I relish the challenge of adopting cutting-edge technologies and tools to continually enhance my skill set.
 
 # Education
-- 2020 - Present, Bachelor of Metallurgical and Materials Engineering at the [Federal University Of Technology Akure](https://firars.futa.edu.ng/)
+- 2020 - Present, Bachelor of Metallurgical and Materials Engineering at the [Federal University Of Technology Akure](https://firars.futa.edu.ng/).
 
 # Programming Languages
 Python | Javascript | Typesript | Go | Rust
