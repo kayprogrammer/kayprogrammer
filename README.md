@@ -7,7 +7,7 @@ Hey There! I'm Kenechi Ifeanyi, a seasoned software engineer, specializing in th
 - 2020 - Present, Bachelor of Metallurgical and Materials Engineering at the [Federal University Of Technology Akure](https://firars.futa.edu.ng/).
 
 # Programming Languages
-Python | Javascript | Typesript | Go | Rust
+Python | Javascript | Typesript | Go | Rust.
 
 # Skills
   - Django | Flask | FastAPI | Sanic | Litestar | Fiber | NestJs.
