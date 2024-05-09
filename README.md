@@ -22,7 +22,7 @@ Python | Javascript | Typesript | Go | Rust.
 - Front-end development
 - MVT Architecture
 - API development and 3rd Party API integrations
-- API Documentation with swagger or postman
+- API Documentation with swagger, postman or insomnia
 - Docker and container orchestration tools
 - Git, Github, Linux, Slack, AWS
 
