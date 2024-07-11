@@ -33,7 +33,8 @@ Python | Javascript | Typesript | Go | Rust.
 - [Whatsapp](https://wa.me/2348133831036)
 
 # Github stats
-[![](https://visitcount.itsvg.in/api?id=kayprogrammer&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-stats.vercel.app/api?username=kayprogrammer&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
 <br>
