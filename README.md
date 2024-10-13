@@ -14,7 +14,7 @@ Python | Javascript | Typesript | Go | Rust.
   - Vanilla Javascript | JQuery | React | Vue | Redux | ViteJs
   - SQLite3 | PostgreSQL | MySQL | MongoDB
   - MVT | REST API
-  - SQLAlchemy | Piccolo | Tortoise | Gorm | Ent | Prisma | Mongoose
+  - SQLAlchemy | Piccolo | Tortoise | GORM | Ent | Prisma | Mongoose
   - Docker | Cloud | Deployment | Testing
 
 # Experience
