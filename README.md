@@ -10,7 +10,7 @@ Hey There! I'm Kenechi Ifeanyi, a seasoned software engineer, specializing in th
 Python | Javascript | Typesript | Go | Rust.
 
 # Skills
-  - Django | Flask | FastAPI | Sanic | Litestar | Fiber | ExpressJs | NestJs.
+  - Django | DRF | DNRF | Flask | FastAPI | Sanic | Litestar | Fiber | ExpressJs | NestJs.
   - Vanilla Javascript | JQuery | React | Vue | Redux | ViteJs
   - SQLite3 | PostgreSQL | MySQL | MongoDB
   - MVT | REST API
