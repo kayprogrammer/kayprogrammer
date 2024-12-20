@@ -4,11 +4,11 @@
 Hey There! I'm Kenechi Ifeanyi, a seasoned software engineer, specializing in the realm of backend development. My journey in the tech world has seen me crafting robust and high-performing applications. My enthusiasm for this ever-evolving field is matched only by my relentless pursuit of knowledge. I relish the challenge of adopting cutting-edge technologies and tools to continually enhance my skill set.
 
 # Programming Languages
-Python | Javascript | Typesript | Go | Rust.
+Python | Javascript | Typesript | Go
 
 # Skills
   - Django | DRF | DNRF | Flask | FastAPI | Sanic | Litestar | Fiber | ExpressJs | NestJs.
-  - Vanilla Javascript | JQuery | React | Vue | Redux | ViteJs
+  - Vanilla JS | JQuery | React | Vue | Redux | ViteJs
   - SQLite3 | PostgreSQL | MySQL | MongoDB
   - MVT | REST API
   - SQLAlchemy | Piccolo | Tortoise | GORM | Ent | Prisma | Mongoose
@@ -19,7 +19,7 @@ Python | Javascript | Typesript | Go | Rust.
 - Front-end development
 - MVT Architecture
 - API development and 3rd Party API integrations
-- API Documentation with swagger, postman or insomnia
+- API Documentation with swagger, postman, hoppscotch or insomnia
 - Docker and container orchestration tools
 - Git, Github, Linux, Slack, AWS
 
