@@ -19,7 +19,7 @@ Python | Javascript | Typesript | Go
 - Front-end development
 - MVT Architecture
 - API development and 3rd Party API integrations
-- API Documentation with swagger, postman, hoppscotch or insomnia
+- API Documentation with swagger, postman, hoppscotch, insomnia
 - Docker and container orchestration tools
 - Git, Github, Linux, Slack, AWS
 
