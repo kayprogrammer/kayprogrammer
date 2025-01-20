@@ -43,3 +43,4 @@ Python | Javascript | Typesript | Go
 [![wakatime](https://wakatime.com/badge/user/f9c42528-3c72-4c6c-93d7-9d10ad114ac4.svg)](https://wakatime.com/@f9c42528-3c72-4c6c-93d7-9d10ad114ac4)
 
 <a href="https://wakatime.com/share/@kayprogrammer/40749f43-2ae0-4267-a1c9-b5d2d3df8cc4.svg"><img style="border-radius:30; border-color: #39D353;" height="400em" src="https://wakatime.com/share/@kayprogrammer/40749f43-2ae0-4267-a1c9-b5d2d3df8cc4.svg"></a>
+
