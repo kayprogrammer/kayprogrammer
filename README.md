@@ -21,7 +21,7 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about software development! </h2><br>
 
--   👨‍💻 I'm Kenechi(kayprogrammer)👋, a Software Engineer from Nigeria. <br><br><br>
+-   👨‍💻 I'm Kenechi (kayprogrammer)👋, a Software Engineer from Nigeria. <br><br><br>
 
 -   🌳 I’m currently learning WEB3 and BlockChain Technologies! <br><br><br>
 
